@@ -1244,7 +1244,13 @@ li {
     .gallery_pics {
         width: 100%;
         max-width: 300px;
+    } 
+    
+    .gallery_pics_cut {
+        width: 100%;
+        max-width: 300px;
     }
+    
     .gallery_items {
         padding-top: 44px;
         padding-bottom: 36px;
