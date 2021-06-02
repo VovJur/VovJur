@@ -1249,6 +1249,7 @@ li {
     .gallery_pics_cut {
         width: 100%;
         max-width: 300px;
+        height: 108px;
     }
     
     .gallery_items {
