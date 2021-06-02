@@ -1206,7 +1206,7 @@ li {
 
 .gallery_items_first_block, 
 .gallery_items_second_block,
-.gallery_items_third_block{
+.gallery_items_third_block {
     display: grid;
     grid-template-columns: auto auto auto;
     grid-column-gap: 20px;
@@ -1268,7 +1268,9 @@ li {
 #pic_zoom4,
 #pic_zoom5,
 #pic_zoom6,
-#pic_zoom7
+#pic_zoom7,
+#pic_zoom8,
+#pic_zoom9
  {
     border-radius: 5px;
     cursor: pointer;
